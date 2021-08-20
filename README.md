@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mukesh Narendran
 - 👀 I’m interested in Scientific applications of AI
-- 🌱 I’m working with Deep learning and computer vision
-- 💞️ I’m looking to collaborate on similar projects from my repository
+- 🌱 I’m working with deep learning and computer vision
+- 💞️ I’m looking to collaborate on similar that can be found in my repository 
 - 📫 How to reach me mukesh.narendran@gmail.com
 
 <!---
