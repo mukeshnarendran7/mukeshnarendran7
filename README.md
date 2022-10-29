@@ -1,3 +1,3 @@
-Hi, I’m Mukesh Narendran and I work with deep learning applications for computer vision (such as object detection, segmentation and pose estimation)> 
+Hi, I’m Mukesh Narendran and I work with building machine learning applications in python
 
 
